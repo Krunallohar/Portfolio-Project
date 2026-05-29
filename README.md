@@ -28,16 +28,11 @@
 
 - **Claude Code login** – Requires a paid subscription. Successfully installed
   the extension but could not log in due to this. 
-  
-- **Git was new to me** – Had not used Git commands before. Looked up a quick
-  tutorial, then ran the commands directly in Cursor's terminal and it worked
-  perfectly.
+
 
 ## What I Learned
 
 - How to set up a professional AI-powered developer environment from scratch
 - How to find, install, and configure extensions inside Cursor IDE
 - How to use an AI agent to automate tasks like cloning a repository
-- How to use Git commands (`add`, `commit`, `push`) in the terminal to version
-  control and publish code to GitHub
 - How to troubleshoot blockers independently and keep moving forward
