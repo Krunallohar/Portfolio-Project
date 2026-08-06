@@ -24,6 +24,48 @@ This playbook is designed as a working document rather than a fixed rulebook. As
 
 ## 3. Research Methodology
 
+## 3. Research Methodology
+
+The research for this playbook was designed to prioritize practitioner experience over generic marketing commentary.
+
+Rather than starting with lists of popular marketing influencers, I researched LinkedIn, newsletters, practitioner recommendations, marketing communities, podcasts, and other relevant sources to identify people who actively operate newsletters, email programs, SaaS businesses, or marketing communities.
+
+The final research set contains ten experts with different areas of specialization, including newsletter strategy, lifecycle email, SaaS copywriting, audience growth, community building, subject line testing, and enterprise B2B marketing.
+
+This diversity was intentional. I did not want the playbook to reflect the assumptions of only one type of practitioner.
+
+### Research Process
+
+The research followed five stages:
+
+1. **Expert Discovery:** Identify practitioners with demonstrated experience operating or advising email, newsletter, lifecycle, or B2B SaaS marketing programs.
+
+2. **Expert Validation:** Evaluate whether each person had relevant operating experience and valuable content instead of selecting them based only on audience size or popularity.
+
+3. **Source Collection:** Collect recent LinkedIn posts, YouTube transcripts where available, newsletter content, and additional supporting material.
+
+4. **Cross-source Comparison:** Compare recommendations across practitioners to identify recurring ideas, conflicting advice, and differences based on business context.
+
+5. **Synthesis and Judgment:** Evaluate the collected information and decide which recommendations were strong enough to include in the playbook, which required additional context, and which should be excluded.
+
+### Technical Collection Approach
+
+Where possible, the collection process was automated. YouTube transcripts were retrieved programmatically using Python and `youtube-transcript-api`.
+
+I also attempted to automate LinkedIn collection using a Python scraper. LinkedIn's authentication restrictions prevented reliable extraction through this method, so I switched to manual collection from publicly accessible profiles instead of relying on incomplete scraper output.
+
+Both approaches have been preserved in the repository because they document the complete research process. When automation produced unreliable results, I changed the collection method instead of lowering the quality of the evidence.
+
+### Evidence Standard
+
+Not every collected source was treated as equally strong evidence.
+
+Recommendations became more reliable when they appeared independently across multiple practitioners, were supported by practical experience or data, and remained applicable to the B2B SaaS context.
+
+Recommendations supported by only one practitioner were not automatically rejected. Instead, they received additional scrutiny before being included in the SOP.
+
+Differences between experts were also treated as valuable evidence. Instead of ignoring conflicting opinions, I analyzed the possible reasons behind them, such as differences in company size, target audience, business model, or marketing objectives.
+
 ## 4. Expert Selection Criteria
 
 ## 5. Decision-Making Framework
