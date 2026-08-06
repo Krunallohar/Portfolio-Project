@@ -18,11 +18,11 @@ I chose this topic because it sits at the intersection of strategy, copywriting,
 
 I did not have a paid subscription to Claude Code or Codex. Instead of giving up, I found free alternatives to achieve the same outcome:
 
-- **Cursor Agent (free tier)** — Used as my primary AI coding assistant throughout the project. Wrote scripts, organized files, and automated collection.
-- **Python + youtube-transcript-api (free, no API key needed)** — Fetched real YouTube transcripts directly via API. Installed via pip.
-- **Custom LinkedIn scraper (scrape_linkedin.py)** — Wrote and ran a Python scraper using requests + BeautifulSoup. LinkedIn blocked it with a login wall — expected and documented.
-- **Manual collection (fallback)** — Visited each expert's public LinkedIn profile and copied posts directly. Both the scraper output and manual collection are preserved in the repo as proof of both approaches.
-- **Multi-source expert research** — Used Reddit (r/SaaS, r/EmailMarketing), LinkedIn search, Substack leaderboards, newsletter directories, and cross-referencing who experts cite to find the right 10 people.
+- **Cursor Agent (free tier)** : Used as my primary AI coding assistant throughout the project. Wrote scripts, organized files, and automated collection.
+- **Python + youtube-transcript-api (free, no API key needed)** : Fetched real YouTube transcripts directly via API. Installed via pip.
+- **Custom LinkedIn scraper (scrape_linkedin.py)** : Wrote and ran a Python scraper using requests + BeautifulSoup. LinkedIn blocked it with a login wall — expected and documented.
+- **Manual collection (fallback)** : Visited each expert's public LinkedIn profile and copied posts directly. Both the scraper output and manual collection are preserved in the repo as proof of both approaches.
+- **Multi-source expert research** : Used Reddit (r/SaaS, r/EmailMarketing), LinkedIn search, Substack leaderboards, newsletter directories, and cross-referencing who experts cite to find the right 10 people.
 
 > The scraper didn't work. The manual method did. Both are in the repo. That's how real research works.
 
