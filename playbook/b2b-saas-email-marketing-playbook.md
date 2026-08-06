@@ -152,16 +152,19 @@ A clearly defined business objective provides direction for every decision that 
 
 ### Evidence from Research
 
-Nathan Barry consistently treats email as a business asset rather than simply a communication channel. His recommendation to launch pilot offers using an existing audience demonstrates that the objective should come before campaign execution. Even a relatively small but trusted audience can create business opportunities when the objective is clearly defined. 
-**Source:** Nathan Barry, LinkedIn Post, June 2025
+Nathan Barry consistently treats email as a business asset rather than simply a communication channel. His recommendation to launch pilot offers using an existing audience demonstrates that the objective should come before campaign execution. Even a relatively small but trusted audience can create meaningful business opportunities when the objective is clearly defined.
+
+**Source:** Nathan Barry, LinkedIn Post (June 2025)  
 https://www.linkedin.com/in/nathanbarry/recent-activity/shares/
 
-Samar Owais emphasizes the difference between writing emails and thinking strategically about the customer experience. She argues that marketers often optimize campaigns while ignoring the customer journey, highlighting the importance of defining the underlying business objective before focusing on execution. 
-**Source:** Samar Owais, LinkedIn Post, May 2025
+Samar Owais emphasizes the difference between writing emails and thinking strategically about the customer experience. She argues that marketers often optimize individual campaigns while overlooking the overall customer journey, reinforcing the importance of defining the business objective before focusing on execution.
+
+**Source:** Samar Owais, LinkedIn Post (May 2025)  
 https://www.linkedin.com/in/samarowais/recent-activity/shares/
 
-Dave Gerhardt's work consistently focuses on building relationships and creating meaningful interactions within professional communities before discussing tactical execution. This reinforces the idea that marketing activities should support a broader business objective instead of becoming the objective themselves.
-**Source:** Dave Gerhardt, LinkedIn Post, June 2025
+Dave Gerhardt consistently emphasizes building relationships, creating value, and learning from peers within professional communities. While his recent posts are not specifically about email marketing strategy, they reinforce the idea that long-term relationships should come before tactical execution.
+
+**Source:** Dave Gerhardt, LinkedIn Post (June 2025)  
 https://www.linkedin.com/in/davegerhardt/recent-activity/shares/
 
 ### My Assessment
