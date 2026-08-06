@@ -66,6 +66,34 @@ Differences between experts were also treated as valuable evidence. Instead of i
 
 ## 4. Expert Selection Criteria
 
+Selecting the right experts was one of the most important decisions in this project. The objective was not to find the most popular marketing personalities, but to identify practitioners with demonstrated experience building, operating, or advising B2B SaaS email and newsletter programs.
+
+Each expert was evaluated using the following criteria:
+
+### 1. Demonstrated Operating Experience
+
+Priority was given to people who have built or managed real email marketing programs, newsletters, SaaS products, or marketing organizations. Practical experience was considered more valuable than theoretical knowledge.
+
+### 2. Consistent Content Creation
+
+Experts needed to publish recent content through LinkedIn, newsletters, podcasts, YouTube, or other public channels. Active practitioners provide insights that reflect current market conditions instead of outdated best practices.
+
+### 3. B2B SaaS Relevance
+
+The research focused specifically on B2B SaaS. Experts whose primary experience was ecommerce, consumer brands, or unrelated industries were not prioritized unless their recommendations clearly applied to SaaS marketing.
+
+### 4. Diverse Perspectives
+
+The selected experts represent different areas of expertise, including newsletter growth, lifecycle email, email copywriting, community building, demand generation, subject line optimization, audience development, and enterprise marketing.
+
+Including experts with different backgrounds reduced the risk of building a playbook based on only one philosophy or methodology.
+
+### 5. Evidence Quality
+
+Recommendations supported by practical examples, measurable results, case studies, repeated testing, or extensive operating experience were given greater weight during the analysis than unsupported opinions.
+
+Rather than treating every expert as equally authoritative on every topic, recommendations were evaluated within each expert's area of specialization. For example, lifecycle email recommendations were primarily informed by lifecycle specialists, while newsletter growth recommendations were primarily informed by operators who had successfully built newsletter businesses.
+
 ## 5. Decision-Making Framework
 ### 5.1 Evidence over Popularity
 
