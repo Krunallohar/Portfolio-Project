@@ -170,9 +170,26 @@ Priority was given to people who **actively run** high-performing newsletters or
 
 ---
 
-## What's Next
-This research will support a full B2B Newsletter & Email Marketing Playbook covering:
-- How to launch a B2B SaaS newsletter from zero
-- Growth tactics sourced directly from practitioners
-- Email lifecycle frameworks for SaaS onboarding and retention
-- Subject line and deliverability best practices based on real send data
+## Research to Playbook
+
+The first stage of this project focused on collecting and organizing high-quality research from experienced B2B SaaS email marketing practitioners.
+
+The second stage transformed that research into an evidence-based playbook. Rather than summarizing individual experts, I compared their recommendations, identified recurring patterns, evaluated conflicting viewpoints, and applied independent judgment to determine which practices should be included.
+
+The result is a practical playbook that combines practitioner experience with my own evaluation of the available evidence.
+
+## Final Outcome
+
+This repository now contains both the research materials and the completed evidence-based B2B SaaS Email Marketing Playbook.
+
+The playbook includes:
+
+- A structured Standard Operating Procedure (SOP) for planning and executing B2B SaaS email marketing.
+- Recommendations supported by evidence collected from multiple practitioners.
+- A comparison of differing expert opinions and the reasoning behind the final decisions.
+- A section describing rejected ideas and why they were excluded.
+- Original ideas developed during the research process.
+- An honest discussion of the playbook's limitations.
+- A complete reference section documenting the research sources.
+
+The objective of this repository was not only to collect information but also to evaluate evidence, compare different viewpoints, and develop an independent, evidence-based playbook for B2B SaaS email marketing.
