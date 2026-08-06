@@ -188,11 +188,141 @@ Before continuing to Step 2, confirm that:
 - [ ] The desired business outcome has been defined.
 - [ ] Success metrics have been identified.
 
-### Step 2 – Define the Ideal Customer Profile (ICP)
+## Step 2: Define the Ideal Customer Profile (ICP)
 
-### Step 3 – Build the Prospect List
+### Business Question
 
-### Step 4 – Verify Contact Information
+Who is most likely to benefit from our product, and who should receive these emails?
+
+### Objective
+
+Identify the audience that aligns with the business objective established in Step 1. A clearly defined ICP ensures that email campaigns reach people who are most likely to engage and convert.
+
+### Why This Step Matters
+
+An email campaign is only as effective as the audience it reaches. Even well-written emails will underperform if they are sent to the wrong people. Defining the ICP helps improve relevance, personalization, and campaign performance while reducing wasted effort.
+
+### Evidence from Research
+
+Nathan Barry emphasizes building relationships with an existing audience that already trusts the sender instead of pursuing volume alone. This reinforces the importance of understanding who the audience is before creating campaigns.
+
+Emily Kramer consistently advocates for defining a clear audience and point of view rather than producing content for everyone. This principle applies equally to newsletters and B2B email marketing.
+
+**Source:** Nathan Barry, LinkedIn Post (June 2025)  
+https://www.linkedin.com/in/nathanbarry/recent-activity/shares/
+
+**Source:** Emily Kramer, LinkedIn Posts (June 2025)
+
+### My Assessment
+
+The ICP should not be defined using only demographic information. It should include business challenges, buying intent, company size, job responsibilities, and the reason the recipient would care about the message.
+
+A focused audience creates more relevant communication and improves every stage of the campaign.
+
+### Common Mistakes
+
+- Defining the audience too broadly.
+- Assuming every prospect has the same needs.
+- Building campaigns before validating the ICP.
+
+### Decision Checkpoint
+
+- [ ] The target audience is clearly defined.
+- [ ] The audience aligns with the business objective.
+- [ ] Key pain points have been identified.
+- [ ] Buyer roles have been documented.
+
+---
+
+## Step 3: Build a Qualified Prospect List
+
+### Business Question
+
+Who should receive the campaign, and why are they a good fit?
+
+### Objective
+
+Build a prospect list that matches the ICP instead of collecting as many contacts as possible.
+
+### Why This Step Matters
+
+The quality of the prospect list directly influences campaign performance. A smaller, highly relevant list often produces better results than a large list with poor targeting.
+
+### Evidence from Research
+
+Nathan Barry demonstrates that even a relatively small but engaged audience can generate meaningful business opportunities when the offer matches the audience's needs.
+
+Dave Gerhardt consistently emphasizes building relationships and creating value before expecting business outcomes.
+
+Chenell Basilio recommends studying successful growth systems instead of relying on assumptions, reinforcing the importance of intentional audience selection.
+
+**Source:** Nathan Barry, LinkedIn Post (June 2025)  
+https://www.linkedin.com/in/nathanbarry/recent-activity/shares/
+
+**Source:** Dave Gerhardt, LinkedIn Posts (June 2025)
+
+**Source:** Chenell Basilio, Research Notes
+
+### My Assessment
+
+A prospect should be added to the list because there is a clear reason to believe the business problem can be solved by the product or service. List size is far less important than list quality.
+
+### Common Mistakes
+
+- Purchasing contact lists.
+- Prioritizing quantity over quality.
+- Ignoring buying intent.
+
+### Decision Checkpoint
+
+- [ ] Every contact matches the ICP.
+- [ ] The list contains qualified prospects.
+- [ ] Contact sources are documented.
+
+---
+
+## Step 4: Verify Contact Information and Prepare Email Infrastructure
+
+### Business Question
+
+Can emails be delivered successfully, and are we ready to begin outreach?
+
+### Objective
+
+Verify contact information and prepare the technical infrastructure required for successful email delivery.
+
+### Why This Step Matters
+
+Even excellent campaigns fail if emails never reach the inbox. Deliverability should be treated as a prerequisite rather than an afterthought.
+
+### Evidence from Research
+
+Jay Schwedelson regularly emphasizes technical optimization, deliverability, and adapting email practices to changing technology, including AI-assisted inbox experiences.
+
+Samar Owais highlights the importance of improving execution through better systems and using technology to diagnose and optimize email performance instead of focusing only on writing copy.
+
+**Source:** Jay Schwedelson, LinkedIn Posts (June 2025)  
+https://www.linkedin.com/in/schwedelson/recent-activity/shares/
+
+**Source:** Samar Owais, LinkedIn Post (June 2025)  
+https://www.linkedin.com/in/samarowais/recent-activity/shares/
+
+### My Assessment
+
+Preparing email infrastructure includes verifying contact quality, configuring sender accounts, monitoring deliverability, and ensuring that campaigns begin with a technically reliable foundation.
+
+### Common Mistakes
+
+- Launching campaigns without verifying email addresses.
+- Ignoring deliverability metrics.
+- Treating technical setup as a one-time task.
+
+### Decision Checkpoint
+
+- [ ] Contact information has been verified.
+- [ ] Sending infrastructure is ready.
+- [ ] Deliverability monitoring is in place.
+- [ ] Technical issues have been reviewed.
 
 ### Step 5 – Prepare Email Infrastructure
 
