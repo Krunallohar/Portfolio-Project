@@ -24,8 +24,6 @@ This playbook is designed as a working document rather than a fixed rulebook. As
 
 ## 3. Research Methodology
 
-## 3. Research Methodology
-
 The research for this playbook was designed to prioritize practitioner experience over generic marketing commentary.
 
 Rather than starting with lists of popular marketing influencers, I researched LinkedIn, newsletters, practitioner recommendations, marketing communities, podcasts, and other relevant sources to identify people who actively operate newsletters, email programs, SaaS businesses, or marketing communities.
