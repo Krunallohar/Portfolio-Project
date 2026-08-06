@@ -124,7 +124,63 @@ This framework ensured that the final recommendations represent my evaluation of
 
 ## 6. Standard Operating Procedure (SOP)
 
-### Step 1 – Define the Campaign Goal
+## Step 1: Identify the Business Problem Before Planning Email Marketing
+
+### Business Question
+
+What business problem are we trying to solve, and is email marketing the right channel to solve it?
+
+### Objective
+
+Before planning any campaign, define the business objective that email marketing is expected to support. Email marketing should not be treated as the goal itself. It is one of several channels that can help solve a business problem when used in the right context.
+
+Examples of business objectives include:
+
+- Increase qualified demo bookings
+- Convert more free trial users into paying customers
+- Improve customer onboarding
+- Reduce customer churn
+- Increase product adoption
+- Reactivate inactive users
+- Generate expansion or upsell opportunities
+
+### Why This Step Matters
+
+Many companies start email marketing because it is considered a standard marketing activity rather than because it addresses a specific business need. This often leads to campaigns with unclear audiences, inconsistent messaging, and success metrics that are difficult to measure.
+
+A clearly defined business objective provides direction for every decision that follows. It determines who should receive the emails, what value should be communicated, which metrics should be tracked, and how success will be evaluated.
+
+### Evidence from Research
+
+Nathan Barry consistently treats email as a business asset rather than simply a communication channel. His recommendation to launch pilot offers using an existing audience demonstrates that the objective should come before campaign execution. Even a relatively small but trusted audience can create business opportunities when the objective is clearly defined. :contentReference[oaicite:0]{index=0}
+
+Samar Owais emphasizes the difference between writing emails and thinking strategically about the customer experience. She argues that marketers often optimize campaigns while ignoring the customer journey, highlighting the importance of defining the underlying business objective before focusing on execution. :contentReference[oaicite:1]{index=1}
+
+Dave Gerhardt's work consistently focuses on building relationships and creating meaningful interactions within professional communities before discussing tactical execution. This reinforces the idea that marketing activities should support a broader business objective instead of becoming the objective themselves.
+
+### My Assessment
+
+After comparing the research, I concluded that every successful email marketing program begins with a clearly defined business objective rather than with campaign planning.
+
+One observation from my own experience also influenced this conclusion. Some companies adopt email marketing simply because it is a common industry practice, even when another marketing channel would solve their problem more effectively. For that reason, the first decision should not be "What emails should we send?" but "What business problem are we trying to solve, and is email marketing the best channel to solve it?"
+
+Once that decision has been made, the remaining steps become significantly easier because the audience, messaging, metrics, and campaign structure can all be aligned with the same objective.
+
+### Common Mistakes
+
+- Starting with email content instead of the business objective.
+- Measuring success using only open rates or click rates instead of business outcomes.
+- Assuming email marketing is always the correct channel.
+- Defining goals that are too broad to measure effectively.
+
+### Decision Checkpoint
+
+Before continuing to Step 2, confirm that:
+
+- [ ] The business problem has been clearly identified.
+- [ ] Email marketing has been selected for a valid business reason.
+- [ ] The desired business outcome has been defined.
+- [ ] Success metrics have been identified.
 
 ### Step 2 – Define the Ideal Customer Profile (ICP)
 
