@@ -12,8 +12,15 @@ Throughout the document, every major recommendation is supported by evidence fro
 
 The intended audience for this playbook is founders, marketing teams, and growth practitioners who want a structured, evidence-based process for planning, executing, and continuously improving B2B SaaS email marketing.
 
-
 ## 2. Purpose of this Playbook
+
+The purpose of this playbook is to provide a structured, evidence-based approach to B2B SaaS email marketing that can be followed, adapted, and improved over time.
+
+This document is not intended to be a collection of isolated marketing tips or a summary of individual experts. Instead, it combines research from multiple practitioners, compares different perspectives, and translates those findings into practical recommendations supported by evidence.
+
+Where experts reached similar conclusions, those recommendations were treated as stronger evidence. Where opinions differed, the differences are documented together with the reasoning behind the final recommendation. Original ideas and personal conclusions are clearly separated from research-based recommendations to maintain transparency.
+
+This playbook is designed as a working document rather than a fixed rulebook. As email platforms, AI-assisted inboxes, customer behavior, and B2B SaaS marketing continue to evolve, the recommendations should be reviewed and refined using new evidence and practical experience.
 
 ## 3. Research Methodology
 
