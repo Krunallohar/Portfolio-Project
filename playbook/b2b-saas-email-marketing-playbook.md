@@ -464,16 +464,145 @@ Continuous testing should focus on improving one variable at a time so that chan
 
 ## 7. Best Practices
 
+The following best practices were consistently supported across multiple experts and should be considered throughout the implementation of any B2B SaaS email marketing program.
+
+- Start with a clearly defined business objective before creating campaigns.
+- Build email campaigns around the customer journey rather than isolated messages.
+- Prioritize audience quality over list size.
+- Focus on delivering value before asking for a conversion.
+- Test one variable at a time to understand what influences performance.
+- Monitor business outcomes alongside traditional email metrics.
+- Continuously review campaign performance and improve based on evidence rather than assumptions.
+- Treat email marketing as a long-term relationship-building channel instead of a short-term sales tactic.
+
+These practices appeared repeatedly throughout the research, although individual experts emphasized different aspects depending on their area of expertise.
+
 ## 8. Common Mistakes
+
+During this research, several recurring mistakes appeared across multiple practitioners. Avoiding these issues can significantly improve campaign performance.
+
+### 1. Starting with email creation instead of defining the business objective.
+
+### 2. Sending the same message to every audience segment.
+
+### 3. Prioritizing list size over audience quality.
+
+### 4. Measuring success only through open rates and click rates.
+
+### 5. Optimizing individual emails while ignoring the overall customer journey.
+
+### 6. Treating personalization as simply inserting the recipient's first name.
+
+### 7. Launching campaigns without continuously testing and improving performance.
+
+These mistakes reinforce one common theme. Email marketing succeeds when strategy, customer understanding, and continuous optimization work together rather than independently.
 
 ## 9. Where Experts Disagree
 
+One of the most valuable outcomes of this research was discovering that experienced practitioners do not always agree. Instead of selecting one opinion without explanation, I compared the reasoning behind each perspective before making a decision.
+
+### Disagreement 1: Audience Growth vs Audience Activation
+
+**Nathan Barry**
+
+Nathan Barry believes businesses should maximize the value of their existing audience before investing heavily in acquiring new subscribers. He demonstrates that even a relatively small but trusted audience can generate meaningful business opportunities.
+
+**Chenell Basilio**
+
+Chenell Basilio focuses more heavily on studying successful newsletter growth systems and identifying repeatable strategies for expanding an audience.
+
+**My Decision**
+
+I recommend activating an existing audience before prioritizing audience growth. A business that cannot create value for its current subscribers is unlikely to achieve better results simply by increasing list size.
+
+---
+
+### Disagreement 2: Relationship Building vs Performance Optimization
+
+**Dave Gerhardt**
+
+Dave Gerhardt emphasizes relationships, community, and long-term trust as the foundation of successful marketing.
+
+**Jay Schwedelson**
+
+Jay Schwedelson focuses on testing, deliverability, subject lines, and continuous optimization to improve campaign performance.
+
+**My Decision**
+
+Both perspectives are valuable, but I believe relationship building should come first. Technical optimization improves performance, but it cannot replace trust or relevance.
+
+---
+
+### Disagreement 3: Customer Journey vs Individual Campaign Performance
+
+**Samar Owais**
+
+Samar Owais encourages marketers to think about the complete customer journey instead of optimizing individual campaigns.
+
+**Jay Schwedelson**
+
+Jay focuses more heavily on improving campaign execution through testing and optimization.
+
+**My Decision**
+
+I recommend designing the customer journey before optimizing individual emails. A well-optimized email cannot compensate for a poorly designed customer experience.
+
 ## 10. What I Rejected and Why
+
+### Rejected Idea 1
+
+I rejected the idea that increasing email volume should be treated as a primary growth strategy.
+
+Although sending more emails may increase short-term visibility, none of the research convinced me that higher volume consistently creates better business outcomes. I believe relevance and timing are more important than frequency alone.
+
+---
+
+### Rejected Idea 2
+
+I rejected the idea that every business should invest in email marketing simply because it is considered a best practice.
+
+During this research I concluded that email marketing is only effective when it supports a clearly defined business objective. In some situations another marketing channel may solve the business problem more effectively.
 
 ## 11. My Original Ideas
 
+The following ideas are my own conclusions developed while comparing the research. They were not presented directly by any individual expert.
+
+### Original Idea 1
+
+Email marketing should not begin with campaign planning.
+
+It should begin with identifying the business problem that needs to be solved.
+
+Only after confirming that email marketing is the appropriate channel should campaign planning begin.
+
+### Original Idea 2
+
+Businesses should evaluate email marketing by business alignment rather than list size.
+
+A smaller audience with a clearly defined business purpose is often more valuable than a large audience with no strategic direction.
+
 ## 12. Weaknesses of this Playbook
 
-## 13. Who I Would NOT Recommend Following
+Although this playbook is based on research from experienced practitioners, it has several limitations.
+
+The research primarily focuses on B2B SaaS organizations. Some recommendations may not apply directly to ecommerce, consumer products, or other industries.
+
+Several experts publish content based on their own business context, audiences, and products. Their recommendations may not always produce identical results in different organizations.
+
+This playbook has not yet been validated through implementation inside a single company. Future testing may lead to additional improvements and refinements.
+
+Finally, email marketing continues to evolve rapidly because of AI-assisted inboxes, changing privacy policies, and shifting customer behavior. Some recommendations may require periodic review.
+
+## 13. Who I Would NOT Recommend Following and Why
+
+This research included ten highly respected practitioners, and I believe each provides valuable insights within their area of expertise.
+
+However, if I had to recommend one expert whose recent content should be used more selectively for this specific playbook, I would choose Val Geisler.
+
+This decision is not based on her experience or credibility. She has extensive expertise in retention and lifecycle marketing.
+
+Instead, it is based on the available research collected for this project. The recent LinkedIn posts I reviewed focused primarily on broader professional topics rather than practical email marketing guidance. As a result, I relied more heavily on experts whose recent content directly supported the recommendations included in this playbook.
+
+This conclusion reflects the evidence collected during this research rather than an overall judgment of the expert's professional capability.
 
 ## 14. References
