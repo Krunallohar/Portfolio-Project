@@ -95,15 +95,32 @@ Recommendations supported by practical examples, measurable results, case studie
 Rather than treating every expert as equally authoritative on every topic, recommendations were evaluated within each expert's area of specialization. For example, lifecycle email recommendations were primarily informed by lifecycle specialists, while newsletter growth recommendations were primarily informed by operators who had successfully built newsletter businesses.
 
 ## 5. Decision-Making Framework
-### 5.1 Evidence over Popularity
 
-### 5.2 Practicality over Theory
+Collecting information was only the first stage of this project. The more important task was deciding which recommendations deserved to become part of the playbook.
 
-### 5.3 Repeatability
+Rather than accepting every recommendation at face value, I evaluated each idea using a consistent decision-making framework. This approach helped distinguish broadly applicable guidance from advice that was highly situational or based on individual preference.
 
-### 5.4 Context Matters
+### 5.1 Practical Applicability
 
-### 5.5 Risk vs Reward
+The first question I asked was whether a recommendation could realistically be implemented by a typical B2B SaaS company. Ideas that required unusually large teams, exceptional budgets, or unique business circumstances were evaluated more cautiously than recommendations that could be applied by most organizations.
+
+### 5.2 Evidence Across Multiple Experts
+
+Recommendations supported by multiple independent practitioners were treated as stronger evidence than recommendations promoted by only one expert. When several practitioners reached similar conclusions through different experiences, I considered those patterns more reliable.
+
+### 5.3 Context Over Absolute Rules
+
+Many recommendations only make sense within a specific business context. Company size, sales cycle, product complexity, target audience, and available resources all influence whether a particular tactic is appropriate. Instead of looking for universal rules, I focused on identifying the situations where each recommendation is most effective.
+
+### 5.4 Long-Term Sustainability
+
+Some marketing tactics may produce short-term gains but become difficult to maintain over time. I gave greater priority to recommendations that encourage consistent execution, repeatable processes, and sustainable growth rather than tactics that depend on one-time campaigns or temporary trends.
+
+### 5.5 Critical Evaluation
+
+Not every recommendation was accepted simply because it came from a respected expert. When advice appeared inconsistent with other evidence, lacked sufficient explanation, or seemed too dependent on a specific business situation, I examined it more critically before deciding whether it should be included in the playbook.
+
+This framework ensured that the final recommendations represent my evaluation of the available evidence rather than a collection of individual opinions.
 
 ## 6. Standard Operating Procedure (SOP)
 
