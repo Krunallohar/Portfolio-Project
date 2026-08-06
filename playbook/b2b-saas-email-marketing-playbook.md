@@ -9,6 +9,15 @@
 ## 4. Expert Selection Criteria
 
 ## 5. Decision-Making Framework
+### 5.1 Evidence over Popularity
+
+### 5.2 Practicality over Theory
+
+### 5.3 Repeatability
+
+### 5.4 Context Matters
+
+### 5.5 Risk vs Reward
 
 ## 6. Standard Operating Procedure (SOP)
 
