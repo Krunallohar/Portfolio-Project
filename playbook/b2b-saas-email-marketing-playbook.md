@@ -324,11 +324,143 @@ Preparing email infrastructure includes verifying contact quality, configuring s
 - [ ] Deliverability monitoring is in place.
 - [ ] Technical issues have been reviewed.
 
-### Step 5 – Prepare Email Infrastructure
+## Step 5: Design the Email Sequence
 
-### Step 6 – Write the Email Sequence
+### Business Question
 
-### Step 7 – Personalize Emails
+What sequence of emails will guide the recipient toward the desired business outcome?
+
+### Objective
+
+Create an email sequence that delivers value while moving recipients through a logical customer journey instead of sending isolated messages.
+
+### Why This Step Matters
+
+Most buying decisions are not made after a single email. A structured sequence allows businesses to educate prospects, build trust, address objections, and encourage action over time.
+
+### Evidence from Research
+
+Samar Owais consistently emphasizes customer journeys over individual campaigns. Her work shows that businesses often focus on individual emails while overlooking the overall customer experience.
+
+Nathan Barry also demonstrates that trust is built through consistent communication instead of one promotional message.
+
+**Source:** Samar Owais, LinkedIn Posts (May and June 2025)
+
+https://www.linkedin.com/in/samarowais/recent-activity/shares/
+
+**Source:** Nathan Barry, LinkedIn Posts (June 2025)
+
+https://www.linkedin.com/in/nathanbarry/recent-activity/shares/
+
+### My Assessment
+
+Every sequence should have a clear purpose. Each email should move the recipient one step closer to the business objective instead of repeating the same sales message.
+
+A typical B2B SaaS sequence should educate first, build credibility second, and encourage action only after sufficient value has been delivered.
+
+### Common Mistakes
+
+- Treating every email as a sales pitch.
+- Repeating the same message throughout the sequence.
+- Sending emails without a logical progression.
+
+### Decision Checkpoint
+
+- [ ] The sequence supports the business objective.
+- [ ] Every email has a unique purpose.
+- [ ] The customer journey is clearly mapped.
+
+---
+
+## Step 6: Create Relevant and Personalized Content
+
+### Business Question
+
+Does every email provide value that is relevant to the recipient?
+
+### Objective
+
+Write content that addresses the recipient's business challenges, communicates value clearly, and feels relevant to their situation.
+
+### Why This Step Matters
+
+Recipients respond to emails that solve problems, not emails that simply describe products. Personalization improves relevance when it is based on meaningful business context rather than superficial details.
+
+### Evidence from Research
+
+Jay Schwedelson emphasizes that modern email performance depends on clarity, live text, and communication that can be understood by both recipients and AI-assisted inboxes.
+
+Corey Haines frequently teaches through real examples and demonstrates the importance of clear messaging supported by proven copywriting principles.
+
+**Source:** Jay Schwedelson, LinkedIn Posts (June 2025)
+
+https://www.linkedin.com/in/schwedelson/recent-activity/shares/
+
+**Source:** Corey Haines, Research Notes
+
+### My Assessment
+
+Effective personalization begins with understanding the recipient's business, industry, or role. Simply inserting a first name is not meaningful personalization. Every email should answer one question for the reader: "Why is this relevant to me?"
+
+### Common Mistakes
+
+- Over-personalizing without adding value.
+- Writing product-focused emails instead of customer-focused emails.
+- Using generic templates for every prospect.
+
+### Decision Checkpoint
+
+- [ ] The email is relevant to the recipient.
+- [ ] The value proposition is clear.
+- [ ] Personalization supports the message.
+
+---
+
+## Step 7: Launch, Monitor, and Improve Campaign Performance
+
+### Business Question
+
+How will campaign performance be measured and improved over time?
+
+### Objective
+
+Launch the campaign, monitor meaningful performance indicators, and continuously improve results through testing and analysis.
+
+### Why This Step Matters
+
+Email marketing is an ongoing optimization process. Campaign performance should improve with every iteration through testing, measurement, and learning.
+
+### Evidence from Research
+
+Jay Schwedelson consistently promotes testing, optimization, and adapting to changing email technology.
+
+Samar Owais also highlights the importance of diagnosing performance issues and improving execution rather than relying only on creative ideas.
+
+**Source:** Jay Schwedelson, LinkedIn Posts (June 2025)
+
+https://www.linkedin.com/in/schwedelson/recent-activity/shares/
+
+**Source:** Samar Owais, LinkedIn Posts (June 2025)
+
+https://www.linkedin.com/in/samarowais/recent-activity/shares/
+
+### My Assessment
+
+Performance should be measured using business outcomes alongside marketing metrics. Open rates and click rates provide useful signals, but they should ultimately support objectives such as qualified meetings, product adoption, customer retention, or revenue growth.
+
+Continuous testing should focus on improving one variable at a time so that changes can be evaluated accurately.
+
+### Common Mistakes
+
+- Optimizing only for open rates.
+- Changing multiple variables simultaneously.
+- Ignoring business outcomes.
+
+### Decision Checkpoint
+
+- [ ] Success metrics are being monitored.
+- [ ] Testing priorities have been defined.
+- [ ] Campaign improvements are documented.
 
 ### Step 8 – Launch the Campaign
 
