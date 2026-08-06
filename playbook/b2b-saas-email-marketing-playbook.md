@@ -21,9 +21,25 @@
 
 ## 6. Standard Operating Procedure (SOP)
 
-### Step 1
+### Step 1 – Define the Campaign Goal
 
-### Step 2
+### Step 2 – Define the Ideal Customer Profile (ICP)
+
+### Step 3 – Build the Prospect List
+
+### Step 4 – Verify Contact Information
+
+### Step 5 – Prepare Email Infrastructure
+
+### Step 6 – Write the Email Sequence
+
+### Step 7 – Personalize Emails
+
+### Step 8 – Launch the Campaign
+
+### Step 9 – Monitor Performance
+
+### Step 10 – Optimize and Iterate
 
 ...
 
