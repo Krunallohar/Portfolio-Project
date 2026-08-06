@@ -605,4 +605,32 @@ Instead, it is based on the available research collected for this project. The r
 
 This conclusion reflects the evidence collected during this research rather than an overall judgment of the expert's professional capability.
 
-## 14. References
+# 14. References
+
+The following experts and resources formed the primary research base for this playbook.
+
+| Expert | Primary Resource | Link |
+|---------|------------------|------|
+| Emily Kramer | MKT1 Newsletter, LinkedIn | https://www.linkedin.com/in/emilykramer<br>https://mkt1.substack.com |
+| Dave Gerhardt | Exit Five, LinkedIn, YouTube | https://www.linkedin.com/in/davegerhardt<br>https://www.youtube.com/@ExitFiveCommunity |
+| Samar Owais | Emails Done Right, LinkedIn | https://www.linkedin.com/in/samarowais<br>https://emailsdonerightbysamar.com |
+| Chenell Basilio | Growth In Reverse | https://www.linkedin.com/in/chenellbasilio<br>https://growthinreverse.com |
+| Val Geisler | LinkedIn | https://www.linkedin.com/in/lovevalgeisler |
+| Corey Haines | Swipe Files | https://www.linkedin.com/in/coreyhaines<br>https://swipefiles.com |
+| Kipp Bodnar | LinkedIn, Marketing Against the Grain | https://www.linkedin.com/in/kippbodnar |
+| Kieran Flanagan | LinkedIn, Marketing Against the Grain | https://www.linkedin.com/in/kieranflanagan |
+| Jay Schwedelson | SubjectLine.com, LinkedIn | https://www.linkedin.com/in/schwedelson<br>https://subjectline.com |
+| Nathan Barry | Kit, LinkedIn | https://www.linkedin.com/in/nathanbarry<br>https://kit.com |
+| Lenny Rachitsky | Lenny's Newsletter | https://www.linkedin.com/in/lennyrachitsky<br>https://www.lennysnewsletter.com |
+
+## Repository Sources
+
+The recommendations and conclusions in this playbook were developed using the following research materials contained in this repository:
+
+- `research/sources.md`
+- `research/linkedin-posts/Using_Manually/`
+- `research/youtube-transcripts/`
+- `research/other/newsletters-sampled.md`
+- `research/other/key-frameworks.md`
+
+All recommendations were derived by comparing multiple sources, identifying recurring patterns, evaluating conflicting viewpoints, and applying independent judgment where expert opinions differed.
