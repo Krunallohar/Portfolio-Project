@@ -68,6 +68,12 @@ Priority was given to people who **actively run** high-performing newsletters or
 
 ├── scrape_linkedin.py                # Python script — LinkedIn scraper (blocked by login wall)
 
+├── playbook/
+
+│   ├── .gitkeep
+
+│   └── b2b-saas-email-marketing-playbook.md    # Final evidence-based playbook developed from the research
+
 └── research/
 
 ├── sources.md                    # All 10 experts with links and annotations
@@ -156,17 +162,17 @@ Priority was given to people who **actively run** high-performing newsletters or
 
 ## Key Findings
 
-1. **Newsletter as product** (Emily Kramer) — The best B2B newsletters have a clear POV, defined audience, and consistent format. They are not content distribution channels.
+1. **Newsletter as product** (Emily Kramer) : The best B2B newsletters have a clear POV, defined audience, and consistent format. They are not content distribution channels.
 
-2. **Live text matters more than ever** (Jay Schwedelson) — AI email clients (Gmail Gemini, Apple Intelligence, Outlook Copilot) now summarize emails before humans read them. Content inside images is invisible to AI. Your most important message must exist as real HTML text.
+2. **Live text matters more than ever** (Jay Schwedelson) : AI email clients (Gmail Gemini, Apple Intelligence, Outlook Copilot) now summarize emails before humans read them. Content inside images is invisible to AI. Your most important message must exist as real HTML text.
 
-3. **Reverse-engineer growth** (Chenell Basilio) — Study how successful newsletters grew rather than guessing. The growth tactics are always traceable and repeatable.
+3. **Reverse-engineer growth** (Chenell Basilio) : Study how successful newsletters grew rather than guessing. The growth tactics are always traceable and repeatable.
 
-4. **Audience before product** (Nathan Barry) — Kit was built on the back of an engaged newsletter audience. Even a list of 1,000 has pilot clients and early adopters in it.
+4. **Audience before product** (Nathan Barry) : Kit was built on the back of an engaged newsletter audience. Even a list of 1,000 has pilot clients and early adopters in it.
 
-5. **Behavioral email beats broadcast** (Val Geisler / Samar Owais) — The best B2B SaaS email programs are built on lifecycle triggers, not batch-and-blast campaigns. Map the customer journey first.
+5. **Behavioral email beats broadcast** (Val Geisler / Samar Owais) : The best B2B SaaS email programs are built on lifecycle triggers, not batch-and-blast campaigns. Map the customer journey first.
 
-6. **POV drives growth** (Dave Gerhardt / Emily Kramer) — Generic newsletters don't build loyal audiences. A strong point of view creates word-of-mouth and long-term retention.
+6. **POV drives growth** (Dave Gerhardt / Emily Kramer) : Generic newsletters don't build loyal audiences. A strong point of view creates word-of-mouth and long-term retention.
 
 ---
 
