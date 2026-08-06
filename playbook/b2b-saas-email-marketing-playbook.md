@@ -462,14 +462,6 @@ Continuous testing should focus on improving one variable at a time so that chan
 - [ ] Testing priorities have been defined.
 - [ ] Campaign improvements are documented.
 
-### Step 8 – Launch the Campaign
-
-### Step 9 – Monitor Performance
-
-### Step 10 – Optimize and Iterate
-
-...
-
 ## 7. Best Practices
 
 ## 8. Common Mistakes
